@@ -1,0 +1,80 @@
+h1{
+	font-family: "Kaushan Script";
+	color: white;
+	font-size: 36px;
+}
+
+h2{
+	font-family: "Times New Roman";
+	font-size: 24px;
+	color: black;
+}
+
+h3{
+	font-family: "Times New Roman";
+	font-size: 18px;
+	color: black;	
+}
+
+p{
+	font-family: "Arial";
+	font-size: 14px;
+}
+
+#cabecalho{
+
+	background-color: #6175f0;
+	padding-bottom: 13px;
+	padding-left: 34px;
+	padding-top: 20px;
+}
+
+#hoje{
+	clear:left;
+	width: 405px;
+	padding-top: 20px;
+	padding-right: 35px;
+	padding-left: 35px;
+	padding-bottom: 30px;
+	margin-right: 25px;
+	background-color: #f8cef7;
+	border-style: solid;
+	border-color: #ff56fb;
+	float: right;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+#subtitulo{
+	color: white;
+}
+
+.destacado{
+	margin-top: 20px;
+	color: #004a79;
+	background-color: #c4caf3;
+	clear: right;
+}
+
+.rosa{
+	height: 112px;
+	width: 112px;
+	display: block;
+	margin-left: 40%;
+}
+
+#uni{
+	float: left;
+	margin-right: 6px;
+}
+
+#musica{
+	white-space: pre-line;
+	clear:left;
+}
+
+#musica p:nth-of-type(even){
+	padding-left: 34px;
+}
+
+
